@@ -1,4 +1,4 @@
-import {JSX} from 'react';
+import { JSX } from 'react';
 import { Field, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 
 interface Fields {
@@ -15,7 +15,6 @@ export const Default = (props: TitleAndTextProps): JSX.Element => {
   const containerStyles = props.params && props.params.styles ? props.params.styles : '';
   const styles = `${props.params.GridParameters} ${containerStyles}`.trimEnd();
 
-  
   return (
     <div className={`container-default component ${styles}`}>
       <div data-class-change className={containerStyles}>
@@ -30,4 +29,3 @@ export const Default = (props: TitleAndTextProps): JSX.Element => {
     </div>
   );
 };
- 
