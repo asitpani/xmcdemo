@@ -15,17 +15,17 @@ type ServicesTeaserProps = {
   fields: ServiceTeasureFields;
 };
 
-export const Default = (props: ServicesTeaserProps): JSX.Element => {  
+export const Default = (props: ServicesTeaserProps): JSX.Element => {
   const services = props.fields?.Services ?? [];
   return (
     <div className="row row-cols-1 row-cols-md-2 g-4">
-          {services.map((service, idx) => {
-            const serviceProps: ServiceProps = {
-              params: props.params,
-              fields: service.fields,
-            };
-            return <Service key={idx} {...serviceProps}></Service>;
-          })}
+      {services.map((service, idx) => {
+        const serviceProps: ServiceProps = {
+          params: props.params,
+          fields: service.fields,
+        };
+        return <Service key={idx} {...serviceProps}></Service>;
+      })}
     </div>
   );
 };
