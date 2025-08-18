@@ -3,7 +3,7 @@ import { ComponentParams, ComponentRendering } from '@sitecore-jss/sitecore-jss-
 import { ServiceFields, ServiceProps, Default as Service } from 'src/atoms/Services/Service';
 
 interface ServiceTeasureFields {
-  services: Array<Services>;
+  Services: Array<Services>;
 }
 
 interface Services {
@@ -15,20 +15,17 @@ type ServicesTeaserProps = {
   fields: ServiceTeasureFields;
 };
 
-export const Default = (props: ServicesTeaserProps): JSX.Element => {
+export const Default = (props: ServicesTeaserProps): JSX.Element => {  
+  const services = props.fields?.Services ?? [];
   return (
-    <div className="row g-4">
-      <div className="col-lg-6">
-        <div className="row g-4">
-          {props.fields.services.map((service, idx) => {
+    <div className="row row-cols-1 row-cols-md-2 g-4">
+          {services.map((service, idx) => {
             const serviceProps: ServiceProps = {
               params: props.params,
               fields: service.fields,
             };
             return <Service key={idx} {...serviceProps}></Service>;
           })}
-        </div>
-      </div>
     </div>
   );
 };

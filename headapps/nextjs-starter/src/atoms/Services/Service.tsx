@@ -19,7 +19,7 @@ export type ServiceProps = {
 
 export const Default = (props: ServiceProps): JSX.Element => {
   return (
-    <div className="col-12">
+    <div className="col-md-6">
       <div className="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
         <div className="service-content text-end">
           <h5 className="mb-4">
@@ -30,7 +30,7 @@ export const Default = (props: ServiceProps): JSX.Element => {
           </p>
         </div>
         <div className="service-icon p-4">
-          <i className="fa fa-user fa-4x text-primary"></i>
+          <i className="fa fa-hotel fa-4x text-primary"></i>
         </div>
       </div>
     </div>
