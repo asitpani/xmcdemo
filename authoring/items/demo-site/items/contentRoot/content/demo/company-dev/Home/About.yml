@@ -1,0 +1,71 @@
+﻿---
+ID: "d06582e7-b48d-440e-8c5a-2cdd67a63c73"
+Parent: "6f64ed44-c863-4c3e-99d7-b060e3a66c2e"
+Template: "699991f9-465a-4a8b-bfa1-8cea756369b9"
+Path: "/sitecore/content/demo/company-dev/Home/About"
+BranchID: "aa757cc9-f2da-4f78-a33d-9d382d5fcf92"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{CA76269C-2E09-46C5-BD76-FD62996B5341}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "db5b8ce9-ba7c-4936-8381-03a043019e6f"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{0042AE0D-23B6-499E-82E9-FDD6A3653249}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b9BEC9659-88AF-4ADB-B3FF-11546B464587%7d%7c%7b00213444-FCBF-4F2B-9D0A-3F319B45F197%7d%7c%7bC9A0EFE2-8459-4E58-893A-6FA0BAAAD53D%7d%7c%7b5403CB34-EA8F-4D45-A977-4A52642A3B09%7d%7c%7b9A8A2A81-BE68-4ABF-A3D3-4A9278F9FBDD%7d%7c%7b737ADCFE-AB66-4241-A616-55BF01DF16F7%7d%7c%7bA60EB1FD-2556-4A0E-BB39-EDEA957AA887%7d%7c%7bDFC3456A-B177-4288-9190-0943B67B307F%7d%7c%7b6D9C60A7-49FC-4651-8DF1-181D00E0FBB8%7d%7c%7b0EAD0E17-07DA-43B4-8A58-C2761923B7C1%7d%7c%7b842492B0-C54C-4AA2-A849-514BCD576969%7d%7c%7b5894780A-63C8-47A1-8071-7B035B5517C4%7d%7c%7b8B2F5564-2764-4CC6-8B82-D7CFB57CF650%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{7C5AC5BB-1220-4A86-A939-313D0C7973C3}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Text 1"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b959FDFBB-4691-4A17-816F-7A5330B8216A%7d%7c%7b175CB6DA-CF89-4D56-888C-EB79F514D12F%7d%7c%7b7DF615F7-0A53-42E1-A164-2B36D6126314%7d&amp;FieldNames=%7b33F68935-AA99-491C-80E2-1677EF77EE60%7d"
+          s:ph="/headless-main/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B8E694EC-3576-4CC6-8628-AEE286A9AB38}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0730d834-77d3-4134-ae82-078ee34abd07"
+      Hint: Title
+      Value: About
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250806T175056Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: About
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\asit_pani@epam.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\asit_pani@epam.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8999e578-684d-4424-b110-67808472c64d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asit_pani@epam.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250806T175110Z

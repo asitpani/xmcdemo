@@ -1,0 +1,27 @@
+﻿---
+ID: "26530ac2-758a-4bd8-bf63-bceff86e9dac"
+Parent: "eda46c1f-2294-48c2-9a7c-9b61a3358f19"
+Template: "eda46c1f-2294-48c2-9a7c-9b61a3358f19"
+Path: /sitecore/templates/Project/demo/Rendering Parameters/TitleAndText Parameters/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fa7195c1-e3da-4281-a61b-bbcc52584249"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asit_pani@epam.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250815T160855Z

@@ -1,0 +1,33 @@
+{
+    "namespace": "demo-site",
+    "items": {
+        "includes": [
+            {
+                "name": "DefaultRenderingHost",
+                "path": "/sitecore/system/Settings/Services/Rendering Hosts/Default",
+                "scope": "singleItem"
+            },
+			{
+                "name": "layouts",
+                "path": "/sitecore/layout/Layouts/Project/demo"
+            },
+            {
+                "name": "placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Project/demo"
+            },
+            {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Project/demo"
+            },
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Project/demo"
+            },
+			{
+				  "name": "contentRoot",
+				  "path": "/sitecore/content",
+				  "allowedPushOperations": "CreateUpdateAndDelete"
+			}
+        ]
+    }
+}
