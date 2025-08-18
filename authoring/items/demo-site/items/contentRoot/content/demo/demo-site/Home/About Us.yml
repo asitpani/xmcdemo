@@ -1,0 +1,44 @@
+﻿---
+ID: "b56fea01-32b7-483f-8ccf-c1dc11c6a644"
+Parent: "c609fc7a-184a-4312-ab95-45c6964f2d95"
+Template: "b6e3057e-3c0f-4215-ad32-8140c7a440db"
+Path: "/sitecore/content/demo/demo-site/Home/About Us"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{253AAF81-886F-4B1D-9A60-09B0A37F63C0}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0730d834-77d3-4134-ae82-078ee34abd07"
+      Hint: Title
+      Value: About Us
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250818T082107Z
+    - ID: "3b291b6b-2398-47b7-8a28-68d7e71bc08a"
+      Hint: Content
+      Value: |
+        <p>This is about us page.
+        </p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar est vitae hendrerit efficitur. In volutpat est eu dictum imperdiet. Morbi commodo eget ex in bibendum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce risus lectus, pretium nec fringilla non, gravida eget libero. In non accumsan justo, tristique blandit tellus. Aliquam auctor nisl ut convallis tempus. Ut lacinia tincidunt magna interdum sagittis. Fusce aliquet eu lacus id pellentesque. Vestibulum nec justo id justo egestas pulvinar. Vestibulum euismod mattis pulvinar. Nam a feugiat ligula. Integer tellus urna, consequat ac mi nec, porttitor imperdiet magna. Sed viverra lectus nec orci placerat mattis. Ut sit amet leo sem. Aenean turpis orci, viverra sed turpis sit amet, auctor eleifend sapien.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit pellentesque turpis, ac volutpat purus dignissim blandit. Nam purus ante, consectetur nec dictum eget, egestas semper orci. Aliquam erat volutpat. Fusce euismod vitae metus at interdum. Nullam justo nisl, fringilla eu rhoncus a, volutpat et risus. Vivamus rhoncus mauris id nibh pharetra porttitor. Nunc gravida ultricies rutrum. Nullam a dictum turpis. Nullam dictum, justo hendrerit imperdiet hendrerit, orci dolor ornare nulla, ac auctor quam purus sed risus.
+        Aliquam erat volutpat. Suspendisse potenti. Donec ultricies libero luctus, hendrerit lectus ut, suscipit ex. Sed placerat neque nec blandit fermentum. Nam ac mauris rhoncus mi porttitor finibus nec non tortor. Aliquam ut rutrum lorem, eget feugiat metus. Integer enim enim, venenatis id lacinia ut, rhoncus at mauris. Aenean quis augue vitae eros mollis consectetur. Curabitur sodales sollicitudin nunc non auctor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse rutrum neque sit amet odio hendrerit tristique. Maecenas elementum lectus erat, et bibendum sapien eleifend at.
+        Nam dapibus ante sed feugiat tempus. Nullam tincidunt orci eget mi iaculis ornare. Pellentesque eget nisi bibendum, fringilla dui nec, dignissim enim. Suspendisse fermentum nisl nec finibus dignissim. Nullam rhoncus ultrices odio sed placerat. Cras eu venenatis magna. Duis lectus massa, viverra et metus at, mattis consequat arcu. Integer et aliquet tortor, quis consequat dui. Fusce fermentum viverra ex ac placerat. Maecenas fringilla commodo leo, et gravida metus porttitor ut. Ut vel sodales enim. Nulla non neque at nisi lacinia aliquet. Vestibulum rutrum velit a turpis laoreet euismod. Phasellus sed finibus lorem. Nulla nec tortor ac nisi gravida placerat.
+        Sed eget libero placerat, porttitor velit non, ultrices diam. Maecenas vestibulum augue ante, eget tempus nibh hendrerit sed. Mauris sit amet dolor vel nunc eleifend mattis. Donec fermentum nulla efficitur mauris sodales sodales. Phasellus ac leo nisl. Suspendisse nunc erat, condimentum id ligula non, tristique finibus turpis. Integer fringilla lobortis imperdiet. Donec vitae ligula convallis odio rutrum rhoncus vitae ac nisl. Praesent egestas tellus nibh, bibendum maximus mauris aliquet et. Morbi pulvinar urna dui, vel laoreet nisl semper et. Proin ipsum odio, faucibus a consectetur at, tincidunt vel mi. Curabitur tempus velit nec aliquam dapibus.</p>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: About Us
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f97ea762-68df-4e11-8f59-7fc41714eaef"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asit_pani@epam.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250818T082243Z

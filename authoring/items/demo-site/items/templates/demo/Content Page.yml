@@ -1,29 +1,29 @@
 ﻿---
-ID: "6872601e-760a-4444-85d0-b1356f0d8288"
-Parent: "699991f9-465a-4a8b-bfa1-8cea756369b9"
-Template: "699991f9-465a-4a8b-bfa1-8cea756369b9"
-Path: /sitecore/templates/Project/demo/Page/__Standard Values
+ID: "b6e3057e-3c0f-4215-ad32-8140c7a440db"
+Parent: "14b7332c-9636-4e2e-8f88-114e26e8cf1b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/demo/Content Page
 SharedFields:
-- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
-  Hint: __Masters
-  Value: |
-    {699991F9-465A-4A8B-BFA1-8CEA756369B9}
-    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
-    {B6E3057E-3C0F-4215-AD32-8140C7A440DB}
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/clipboard_checks.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{699991F9-465A-4A8B-BFA1-8CEA756369B9}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "27429561-8439-4e66-90c6-fd120b429dc0"
+  Value: "a51b424f-7b5a-4e28-94f1-b17f6692b7e1"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{4753FCD9-C4A1-41D8-A3CF-C59351D7BABD}"
 Languages:
 - Language: en
   Versions:
   - Version: 1
     Fields:
-    - ID: "0730d834-77d3-4134-ae82-078ee34abd07"
-      Hint: Title
-      Value: $name
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20250805T205908Z
+      Value: 20250818T065952Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -34,11 +34,11 @@ Languages:
         sitecore\asit_pani@epam.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9b6ade85-7366-47b3-b9fa-c7217175b7c3"
+      Value: "352b2d08-fb99-40d2-9dfe-6fe90e05b64c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\asit_pani@epam.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250818T070544Z
+      Value: 20250818T075856Z

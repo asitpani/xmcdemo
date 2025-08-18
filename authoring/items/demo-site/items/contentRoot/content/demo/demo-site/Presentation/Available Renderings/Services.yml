@@ -1,29 +1,27 @@
 ﻿---
-ID: "6872601e-760a-4444-85d0-b1356f0d8288"
-Parent: "699991f9-465a-4a8b-bfa1-8cea756369b9"
-Template: "699991f9-465a-4a8b-bfa1-8cea756369b9"
-Path: /sitecore/templates/Project/demo/Page/__Standard Values
+ID: "68c8de0c-dafb-40d7-998e-afd87543049f"
+Parent: "03804b32-d006-433a-a4ac-4882f59343d9"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: "/sitecore/content/demo/demo-site/Presentation/Available Renderings/Services"
+BranchID: "262cca6d-ce28-49ba-a878-e9fb7d07a7a6"
 SharedFields:
-- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
-  Hint: __Masters
-  Value: |
-    {699991F9-465A-4A8B-BFA1-8CEA756369B9}
-    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
-    {B6E3057E-3C0F-4215-AD32-8140C7A440DB}
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: "{29FD9EBA-9D33-4E57-8267-4713F5FF7C28}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "27429561-8439-4e66-90c6-fd120b429dc0"
+  Value: "8faec088-50ca-4d21-9b3f-f889c33018ee"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{07B9F816-4B8A-4242-9186-1C19EBFD405C}"
 Languages:
 - Language: en
   Versions:
   - Version: 1
     Fields:
-    - ID: "0730d834-77d3-4134-ae82-078ee34abd07"
-      Hint: Title
-      Value: $name
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20250805T205908Z
+      Value: 20250818T185449Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -34,11 +32,11 @@ Languages:
         sitecore\asit_pani@epam.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9b6ade85-7366-47b3-b9fa-c7217175b7c3"
+      Value: "9c180fa4-802f-45a7-8cdb-6beff65ca2fb"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\asit_pani@epam.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250818T070544Z
+      Value: 20250818T185601Z

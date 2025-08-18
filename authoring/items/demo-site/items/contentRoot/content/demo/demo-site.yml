@@ -23,6 +23,7 @@ SharedFields:
     {AC1A27CA-6BF3-4D23-915E-668326D52CF1}
     {D7EEAF4D-2B58-4029-B141-844221565EF0}
     {1F35559F-2140-4774-8BC1-525BB722BAA2}
+    {803A8271-A6DD-4046-A883-2BE5EA60B852}
 - ID: "2b2fe9fd-78a6-40eb-b9f9-28409d8d3700"
   Hint: SitemapMediaItems
   Value: "{6EE3ED29-F81D-4761-8466-A66D810C03A2}"
@@ -34,7 +35,7 @@ SharedFields:
   Value: Demo Site
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "03c59f73-ac0d-4844-8335-0543d9320a87"
+  Value: "fb52f1b5-1717-4827-aa7a-7c02953c04ae"
 - ID: "e2bf3c8d-a12e-45f4-98d6-a37f13bcf375"
   Hint: SiteTemplate
   Value: "{2867D289-8951-458A-AF19-CE93A67BB494}"
@@ -59,11 +60,11 @@ Languages:
         sitecore\asit_pani@epam.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4971486e-0376-407b-8e0a-bfcbff3da7dd"
+      Value: "b8769e06-2533-432c-9fce-ada2366c5fe3"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\Anonymous
+        sitecore\asit_pani@epam.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250805T205953Z
+      Value: 20250818T185449Z

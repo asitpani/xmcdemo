@@ -1,0 +1,73 @@
+﻿---
+ID: "81138d71-5b89-4ee1-976f-35124e628d86"
+Parent: "fd266295-2a8e-4539-aa95-26f04e1c161d"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/demo/demo-site/Presentation/Partial Designs/Header"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: header
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{8EA7BD87-9934-47B1-87FA-E6F8936A7098}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "d65ec051-6463-4243-9e56-0087424410f5"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{28D22A98-1A55-4498-8AE8-86519E6A7CA9}"
+              p:before="*"
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D%7C%7B31A49E90-E4B4-4F04-A3C7-E15B6835990F%7D%7C%7B044BFD36-3F90-4CB9-B36C-44DC64F6C467%7D&amp;ColumnWidth2=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D%7C%7B6CA67ADF-05D9-4C51-BAA2-E0D45959FE47%7D%7C%7B9B4A68D5-57DC-4137-B953-621B38EECC68%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2=%7C%7BB21413CE-35D2-462A-BD80-9074DFA2177B%7D&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-header" />
+            <r
+              uid="{9CFFF3AD-28FA-4DA3-9DEE-3F1983646069}"
+              p:after="r[@uid='{28D22A98-1A55-4498-8AE8-86519E6A7CA9}']"
+              s:ds="local:/Data/Image 3"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B2ACA2B2C-B3BC-4379-BD38-B67FD907FE1B%7D&amp;Styles=%7C%7BB21413CE-35D2-462A-BD80-9074DFA2177B%7D%7C%7B1647E186-156E-49E4-8FFA-78437E3D80B2%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-header/column-1-1" />
+            <r
+              uid="{72C928A5-A7FB-47C2-9A63-A1E1CA30FF31}"
+              p:after="*[1=2]"
+              s:id="{1DEB067F-0BB1-405E-94F5-2ABB537A6160}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7BC76D72D1-102E-40D7-A78D-2DDA05622699%7D%7C%7B6CA67ADF-05D9-4C51-BAA2-E0D45959FE47%7D%7C%7B859293FB-16EB-4427-BBB5-A6B188C45FA7%7D%7C%7BAA8858DB-CA9D-4C36-B1F5-27511ED25DF3%7D&amp;FieldNames=%7B581ABCE5-FE7C-4AF1-B23F-3901C4052815%7D&amp;Styles=%7C%7BC375DBCB-D553-4866-9D55-B1CBFD796651%7D%7C%7B94209A60-603A-40E0-8796-7DE404D98FC2%7D&amp;NavigationRoot&amp;LevelFrom=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;LevelTo=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;Filter=%7BD063E9D1-C7B5-4B1E-B31E-69886C9C59F5%7D&amp;Flattened=1&amp;AddRoot&amp;SerializerFieldNames&amp;RenderingIdentifier&amp;CSSStyles"
+              s:ph="/headless-header/column-2-1" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250818T062227Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\asit_pani@epam.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\asit_pani@epam.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b50bbd46-9d2d-46e0-972a-927b1e4d3ccf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asit_pani@epam.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250818T190959Z

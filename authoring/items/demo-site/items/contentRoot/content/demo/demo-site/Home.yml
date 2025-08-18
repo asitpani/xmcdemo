@@ -11,7 +11,7 @@ SharedFields:
     <image mediaid="{12C2F0BA-9D68-4785-83A4-02155D418206}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "f6382726-85e7-4c22-9deb-1c2867add283"
+  Value: "05b38a8c-9896-417d-9a0a-50522e203c99"
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{F558BEC9-C602-4D7A-B9A1-D0411C946EA4}"
@@ -31,17 +31,9 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{D5F3D2D4-9576-4216-9AFC-B4893AEFB99C}"
-              p:before="*"
+              uid="{F6A01431-95C1-4D4F-BB4D-0B1FBDD34FAE}"
               s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
-              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B6E154E52-E107-4B34-AC49-7EC119A78C13%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
-              s:ph="headless-header" />
-            <r
-              uid="{4A56F4EC-98F7-4E2A-943E-2161B671672C}"
-              p:after="*[1=2]"
-              s:ds="local:/Data/Text 1"
-              s:id="{DBF9645B-FF2F-4BDA-AA97-B7C63A80B9EA}"
-              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B89251DD2-C10F-4593-9FC1-A6FF62A0C5F2%7D%7C%7BFF1920F4-C59B-485F-86F2-125064A361EC%7D%7C%7BE25B16F8-81E2-443F-B4B0-500E08F42815%7D%7C%7BAA8858DB-CA9D-4C36-B1F5-27511ED25DF3%7D%7C%7B1C2675C6-8EA9-45B2-A49F-4A4CCEB8117C%7D&amp;FieldNames&amp;Styles=%7C%7BB21413CE-35D2-462A-BD80-9074DFA2177B%7D%7C%7BE6F70F59-3ED1-45DD-A9F2-78790BEB695A%7D%7C%7B1647E186-156E-49E4-8FFA-78437E3D80B2%7D%7C%7B0D31A00B-5A83-49C2-9AAF-617ADC82D1EB%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B6E154E52-E107-4B34-AC49-7EC119A78C13%7D&amp;Styles=%7C%7B31086084-93CA-46EB-98A0-F990E92B151C%7D%7C%7B132ADF82-6B85-4A31-991F-CCB19A71C63F%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
               s:ph="headless-main" />
           </d>
         </r>
@@ -53,8 +45,7 @@ Languages:
       Value: 20250805T205919Z
     - ID: "3b291b6b-2398-47b7-8a28-68d7e71bc08a"
       Hint: Content
-      Value: |
-        <div class="ck-content"><p><span style="color:hsl(210, 75%, 60%);"><em style="--tw-backdrop-blur:;--tw-backdrop-brightness:;--tw-backdrop-contrast:;--tw-backdrop-grayscale:;--tw-backdrop-hue-rotate:;--tw-backdrop-invert:;--tw-backdrop-opacity:;--tw-backdrop-saturate:;--tw-backdrop-sepia:;--tw-blur:;--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-brightness:;--tw-contain-layout:;--tw-contain-paint:;--tw-contain-size:;--tw-contain-style:;--tw-contrast:;--tw-drop-shadow:;--tw-gradient-from-position:;--tw-gradient-to-position:;--tw-gradient-via-position:;--tw-grayscale:;--tw-hue-rotate:;--tw-invert:;--tw-numeric-figure:;--tw-numeric-fraction:;--tw-numeric-spacing:;--tw-ordinal:;--tw-pan-x:;--tw-pan-y:;--tw-pinch-zoom:;--tw-ring-color:rgba(74,101,232,.5);--tw-ring-inset:;--tw-ring-offset-color:#fff;--tw-ring-offset-shadow:0 0 #0000;--tw-ring-offset-width:0px;--tw-ring-shadow:0 0 #0000;--tw-rotate:0;--tw-saturate:;--tw-scale-x:1;--tw-scale-y:1;--tw-scroll-snap-strictness:proximity;--tw-sepia:;--tw-shadow-colored:0 0 #0000;--tw-shadow:0 0 #0000;--tw-skew-x:0;--tw-skew-y:0;--tw-slashed-zero:;--tw-translate-x:0;--tw-translate-y:0;border:0px solid rgb(216, 216, 216);box-sizing:border-box;scrollbar-color:rgb(84, 88, 89) rgb(33, 38, 33);scrollbar-width:thin;"><span class="emphasis" style="--tw-backdrop-blur:;--tw-backdrop-brightness:;--tw-backdrop-contrast:;--tw-backdrop-grayscale:;--tw-backdrop-hue-rotate:;--tw-backdrop-invert:;--tw-backdrop-opacity:;--tw-backdrop-saturate:;--tw-backdrop-sepia:;--tw-blur:;--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-brightness:;--tw-contain-layout:;--tw-contain-paint:;--tw-contain-size:;--tw-contain-style:;--tw-contrast:;--tw-drop-shadow:;--tw-gradient-from-position:;--tw-gradient-to-position:;--tw-gradient-via-position:;--tw-grayscale:;--tw-hue-rotate:;--tw-invert:;--tw-numeric-figure:;--tw-numeric-fraction:;--tw-numeric-spacing:;--tw-ordinal:;--tw-pan-x:;--tw-pan-y:;--tw-pinch-zoom:;--tw-ring-color:rgba(74,101,232,.5);--tw-ring-inset:;--tw-ring-offset-color:#fff;--tw-ring-offset-shadow:0 0 #0000;--tw-ring-offset-width:0px;--tw-ring-shadow:0 0 #0000;--tw-rotate:0;--tw-saturate:;--tw-scale-x:1;--tw-scale-y:1;--tw-scroll-snap-strictness:proximity;--tw-sepia:;--tw-shadow-colored:0 0 #0000;--tw-shadow:0 0 #0000;--tw-skew-x:0;--tw-skew-y:0;--tw-slashed-zero:;--tw-translate-x:0;--tw-translate-y:0;-webkit-text-stroke-width:0px;border:0px solid rgb(216, 216, 216);box-sizing:border-box;font-family:-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;font-size:16px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;scrollbar-color:rgb(84, 88, 89) rgb(33, 38, 33);scrollbar-width:thin;text-align:left;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;"><em>Hello world - inbuilt component</em></span></em><span style="-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;font-size:16px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;">. Asit</span></span></p></div>
+      Value: 
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: "demo-site"
@@ -68,11 +59,11 @@ Languages:
         sitecore\asit_pani@epam.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4a48d753-a4ca-428b-9455-1066c1b941c6"
+      Value: "dfa5fc07-da45-48aa-800a-d3b3f45c786a"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\asit_pani@epam.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250816T070550Z
+      Value: 20250818T162616Z

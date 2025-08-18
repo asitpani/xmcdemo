@@ -1,0 +1,38 @@
+﻿---
+ID: "7159e2b6-6ff8-4948-adf0-fcf490141d95"
+Parent: "f23b11c4-e00f-4f02-8249-eb415469d15b"
+Template: "b045acdc-f7e5-4860-87b4-cd29e890288d"
+Path: "/sitecore/content/demo/demo-site/Data/Services Teaser/Services Teaser HomePage"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250818T190009Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\asit_pani@epam.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\asit_pani@epam.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "991ec3b6-9f47-4dba-8af9-fb91fc077031"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asit_pani@epam.com
+    - ID: "c462f8b4-29e6-4372-9fd8-f5efef5e8133"
+      Hint: Services
+      Value: |
+        {78F37369-9A93-49D3-B6EF-57B1523D94BF}
+        {C117B795-0B7B-4038-A693-C050B35DF85A}
+        {2D7889F5-23F4-4277-8B03-E7B2DD5008D7}
+        {5E714C6F-73A8-4FFA-87F9-CC0459B6F3E9}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250818T190818Z

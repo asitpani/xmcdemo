@@ -1,0 +1,30 @@
+﻿---
+ID: "2b63017a-fcc3-40ef-bdab-a50da5572f38"
+Parent: "f42336e0-68c8-46d6-a9f8-f2bb47fc8384"
+Template: "f42336e0-68c8-46d6-a9f8-f2bb47fc8384"
+Path: /sitecore/templates/Project/demo/Services Overview/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{DC43831E-1E8F-4B9D-A00F-1350F0C1F22C}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "28b881f5-8464-4528-a521-b5c47be75fca"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250818T182320Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "25156c85-fc2f-4dd8-8618-26d3aaeff6df"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asit_pani@epam.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250818T182345Z

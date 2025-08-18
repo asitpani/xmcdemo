@@ -5,12 +5,15 @@ Template: "a29d272e-9d48-453c-9e9d-b47585fa7f20"
 Path: "/sitecore/content/demo/demo-site/Data"
 BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{B045ACDC-F7E5-4860-87B4-CD29E890288D}"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 1400
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "ae285639-7aea-4a88-9244-ff98dc706d14"
+  Value: "bff7d374-6b5b-45d6-99af-797c0b0ad735"
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{8EF3BF41-390E-49EE-A8D1-BB139DAF63CB}"
@@ -32,11 +35,11 @@ Languages:
         sitecore\asit_pani@epam.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "850c67b4-7571-4140-b49e-3301aa1f6273"
+      Value: "fddb929e-5550-4b93-9723-c6d5e5745f2d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\asit_pani@epam.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250805T205919Z
+      Value: 20250818T185644Z

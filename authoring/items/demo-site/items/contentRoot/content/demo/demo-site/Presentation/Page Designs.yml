@@ -5,6 +5,12 @@ Template: "41450f40-3431-4c9e-a54e-66893e79faf1"
 Path: "/sitecore/content/demo/demo-site/Presentation/Page Designs"
 BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
+- ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+  Hint: TemplatesMapping
+  Value: "%7b699991F9-465A-4A8B-BFA1-8CEA756369B9%7d%3d%257B8465BB74-CA5B-482F-A77A-2D9792CC2716%257D%26%7bB6E3057E-3C0F-4215-AD32-8140C7A440DB%7d%3d%257B8465BB74-CA5B-482F-A77A-2D9792CC2716%257D"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "2921c1bd-a0ec-46c0-821b-f60209190542"
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{2EA756FA-AED6-4599-83B7-36FEFE229B31}"
@@ -26,11 +32,11 @@ Languages:
         sitecore\asit_pani@epam.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a4b150a8-5c97-4b33-bbed-293d061b0253"
+      Value: "78cabc53-5f80-4d26-8b62-93d925e16611"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\asit_pani@epam.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250805T205921Z
+      Value: 20250818T124708Z

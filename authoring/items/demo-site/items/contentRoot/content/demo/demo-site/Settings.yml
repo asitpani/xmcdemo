@@ -11,6 +11,9 @@ SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{C2DC4690-AF44-48C7-BB21-90D1AD246732}"
+- ID: "1864e99d-c29a-40bf-96e0-b3e7896a013b"
+  Hint: UseLanguageSpecificLayout
+  Value: 
 - ID: "300fb7a0-b27f-44dd-9af0-b37a19723e0e"
   Hint: RouteTemplateName
   Value: Settings Route
@@ -49,7 +52,7 @@ SharedFields:
   Value: "{9AA154D7-39F6-4A75-877C-FE571407B999}|{AF584191-45C9-4201-8740-5409F4CF8BDD}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "ff8220e4-cd80-4b3b-952d-0bce7187dea8"
+  Value: "b89657d8-becc-4e19-94b1-4edd76a2268e"
 - ID: "e8881464-38af-4655-be4a-ee10586578a2"
   Hint: Templates
   Value: "{14B7332C-9636-4E2E-8F88-114E26E8CF1B}"
@@ -77,11 +80,14 @@ Languages:
         sitecore\asit_pani@epam.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "19187014-7327-4599-a734-267a419128e6"
+      Value: "1d84102a-4408-4c11-a435-386d154ed5b8"
+    - ID: "9ce73b35-34d3-49dc-bd5a-ce1e8267fda9"
+      Hint: ComponentDataSourceTemplates
+      Value: "{C8D1BAA6-5C65-4544-BC89-599C73CC4C55}"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\asit_pani@epam.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250805T205923Z
+      Value: 20250817T141849Z
