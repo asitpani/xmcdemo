@@ -3,6 +3,7 @@ import {
   Field,
   ComponentParams,
   ImageField,
+  RichText,
   Text as JSSText,
   NextImage as JssImage,
 } from '@sitecore-jss/sitecore-jss-nextjs';
@@ -23,11 +24,10 @@ export const Default = (props: HeroBannerProps): JSX.Element => {
       <div className="row align-items-center bg-light p-4 rounded shadow">
         <div className="col-md-6 text-center text-md-start">
           <h1 className="display-5 fw-bold">
-            {' '}
             <JSSText field={props.fields.Title} />
           </h1>
           <p className="lead">
-            <JSSText field={props.fields.Description} />
+            <RichText field={props.fields.Description} />
           </p>
         </div>
         <div className="col-md-6 text-center">
