@@ -19,18 +19,18 @@ export type ServiceProps = {
 
 export const Default = (props: ServiceProps): JSX.Element => {
   return (
-    <div className="col-md-6">
-      <div className="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
-        <div className="service-content text-end">
-          <h5 className="mb-4">
+    <div className="col">
+      <div className="bg-light p-4 rounded shadow d-flex align-items-center">
+        <div className="me-4 text-end flex-grow-1">
+          <h5 className="mb-3 fw-bold">
             <JSSText field={props.fields.Heading} />
           </h5>
           <p className="mb-0">
             <JSSText field={props.fields.Description} />
           </p>
         </div>
-        <div className="service-icon p-4">
-          <i className="fa fa-hotel fa-4x text-primary"></i>
+        <div className="text-primary">
+          <i className="fa fa-hotel fa-4x"></i>
         </div>
       </div>
     </div>
