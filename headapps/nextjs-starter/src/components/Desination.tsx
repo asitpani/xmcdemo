@@ -1,6 +1,8 @@
+import { JSX } from 'react';
+import Link from 'next/link';
 import { Text as JSSText, RichText, Image as JssImage } from '@sitecore-jss/sitecore-jss-nextjs';
 
-type DestinationChildrenProps = {
+type DestinationProps = {
   fields: {
     item: {
       id: string;
@@ -10,6 +12,7 @@ type DestinationChildrenProps = {
       children?: {
         results: {
           id: string;
+          url: { path: string };
           title?: { value: string };
           description?: { value: string };
           image?: { jsonValue: { src: string; alt?: string } };
@@ -19,8 +22,8 @@ type DestinationChildrenProps = {
   };
 };
 
-export default function DestinationChildren({ fields }: DestinationChildrenProps) {
-  const children = fields?.item?.children?.results || [];
+export const Default = (props: DestinationProps): JSX.Element => {
+  const children = props.fields?.item?.children?.results || [];
 
   return (
     <div className="container my-5">
@@ -31,7 +34,9 @@ export default function DestinationChildren({ fields }: DestinationChildrenProps
               {/* Left text content */}
               <div className="me-4 text-end flex-grow-1">
                 <h5 className="mb-3 fw-bold">
-                  <JSSText field={child.title} />
+                  <Link href={child.url?.path || '#'} className="text-decoration-none text-dark">
+                    <JSSText field={child.title} />
+                  </Link>
                 </h5>
                 <p className="mb-0">
                   <RichText field={child.description} />
@@ -48,4 +53,4 @@ export default function DestinationChildren({ fields }: DestinationChildrenProps
       </div>
     </div>
   );
-}
+};
