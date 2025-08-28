@@ -26,9 +26,9 @@ export const Default = (props: HeroBannerProps): JSX.Element => {
           <h1 className="display-5 fw-bold">
             <JSSText field={props.fields.Title} />
           </h1>
-          <p className="lead">
+          <div className="lead">
             <RichText field={props.fields.Description} />
-          </p>
+          </div>
         </div>
         <div className="col-md-6 text-center">
           <JssImage field={props.fields.Image} />
