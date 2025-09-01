@@ -1,8 +1,7 @@
 import type { NextApiRequest, NextApiResponse } from 'next';
 
-const SITECORE_GRAPHQL_ENDPOINT =
-  'https://xmc-epam19d48-xmclearningc704-asitdev8703.sitecorecloud.io/sitecore/api/graph/edge';
-const SITECORE_API_KEY = '5bfd3ed82a9a4ab7af79b3d13875e083';
+const SITECORE_GRAPHQL_ENDPOINT = process.env.SITECORE_GRAPHQL_ENDPOINT;
+const SITECORE_API_KEY = process.env.SITECORE_API_KEY;
 
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
   const path = req.query.path as string;
@@ -26,6 +25,10 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
 
   const variables = { path };
   try {
+    if (!SITECORE_GRAPHQL_ENDPOINT) {
+      throw new Error('SITECORE_GRAPHQL_ENDPOINT is not defined');
+    }
+
     const response = await fetch(SITECORE_GRAPHQL_ENDPOINT, {
       method: 'POST',
       headers: {
