@@ -39,7 +39,12 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
     //res.json(json);
     const items = json?.data?.item?.children?.results || [];
 
-    const dropdownOptions = items.map((item: any) => ({
+    interface ChildItem {
+      label: { value: string };
+      value: { value: string };
+    }
+
+    const dropdownOptions = items.map((item: ChildItem) => ({
       value: item.value.value,
       label: item.label.value,
     }));
