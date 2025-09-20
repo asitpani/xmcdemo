@@ -1,0 +1,41 @@
+﻿---
+ID: "d6400cab-80a3-4331-b7ea-279199265386"
+Parent: "e852710d-4eb7-4cb3-ba83-84848ff056f3"
+Template: "04a4f95c-7645-4456-bd46-4cd523f984f5"
+Path: "/sitecore/content/demo/demo-site/Home/Destinations/Asia/India"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{EB10D584-5B77-493C-B53D-358ABDFD8976}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0730d834-77d3-4134-ae82-078ee34abd07"
+      Hint: Title
+      Value: India
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250828T175922Z
+    - ID: "332c1474-3aa0-4c15-a348-66939032d9c9"
+      Hint: Image
+      Value: |
+        <image mediaid="{9EDE69A2-B8D5-432F-A794-180F10A078B2}" />
+    - ID: "3b291b6b-2398-47b7-8a28-68d7e71bc08a"
+      Hint: Content
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ut scelerisque enim. In lacinia faucibus risus, eu gravida mauris posuere non. Sed sollicitudin diam et elit tempor tristique. Ut at orci ac diam scelerisque posuere id sit amet nisi. Donec hendrerit risus pellentesque mi laoreet, et faucibus massa imperdiet. Aliquam non lacus nec erat venenatis lacinia. Vivamus ac convallis nisl, id varius felis. Duis at vehicula orci. Nam aliquam nec risus ac hendrerit.
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: India
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1da7a7c5-cb2e-4c03-8a2b-daa5e8b20b39"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asit_pani@epam.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250828T222108Z

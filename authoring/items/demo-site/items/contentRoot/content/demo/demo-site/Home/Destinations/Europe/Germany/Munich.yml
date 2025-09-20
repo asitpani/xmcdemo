@@ -1,0 +1,41 @@
+﻿---
+ID: "aa7acd98-d324-4871-98e8-0c6c283d71bd"
+Parent: "6105a379-25a8-4972-bb13-c3632da72464"
+Template: "c40186db-c19c-4d13-8aed-7f4b9b4af412"
+Path: "/sitecore/content/demo/demo-site/Home/Destinations/Europe/Germany/Munich"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{5723B91D-ACC1-4FEC-BFED-991EC95B9364}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0730d834-77d3-4134-ae82-078ee34abd07"
+      Hint: Title
+      Value: Munich
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250828T175904Z
+    - ID: "332c1474-3aa0-4c15-a348-66939032d9c9"
+      Hint: Image
+      Value: |
+        <image mediaid="{3A5D7061-22D4-4C15-B932-5669C697D61B}" />
+    - ID: "3b291b6b-2398-47b7-8a28-68d7e71bc08a"
+      Hint: Content
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ut scelerisque enim. In lacinia faucibus risus, eu gravida mauris posuere non. Sed sollicitudin diam et elit tempor tristique. Ut at orci ac diam scelerisque posuere id sit amet nisi. Donec hendrerit risus pellentesque mi laoreet, et faucibus massa imperdiet. Aliquam non lacus nec erat venenatis lacinia. Vivamus ac convallis nisl, id varius felis. Duis at vehicula orci. Nam aliquam nec risus ac hendrerit.
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Munich
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4b682758-b3e1-45d6-ba4d-5e168a589004"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asit_pani@epam.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250828T225707Z

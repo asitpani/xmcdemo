@@ -1,0 +1,41 @@
+﻿---
+ID: "6105a379-25a8-4972-bb13-c3632da72464"
+Parent: "5cb4249c-e90d-4c74-80e5-b59f9f729f34"
+Template: "04a4f95c-7645-4456-bd46-4cd523f984f5"
+Path: "/sitecore/content/demo/demo-site/Home/Destinations/Europe/Germany"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{767C7884-174C-4465-BFBB-5BEA3650BA20}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0730d834-77d3-4134-ae82-078ee34abd07"
+      Hint: Title
+      Value: Germany
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250828T175854Z
+    - ID: "332c1474-3aa0-4c15-a348-66939032d9c9"
+      Hint: Image
+      Value: |
+        <image mediaid="{38FC89BF-38BD-4A03-BD66-50B0A5F088C7}" />
+    - ID: "3b291b6b-2398-47b7-8a28-68d7e71bc08a"
+      Hint: Content
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ut scelerisque enim. In lacinia faucibus risus, eu gravida mauris posuere non. Sed sollicitudin diam et elit tempor tristique. Ut at orci ac diam scelerisque posuere id sit amet nisi. Donec hendrerit risus pellentesque mi laoreet, et faucibus massa imperdiet. Aliquam non lacus nec erat venenatis lacinia. Vivamus ac convallis nisl, id varius felis. Duis at vehicula orci. Nam aliquam nec risus ac hendrerit.
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Germany
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "02407432-02a3-468f-a5d8-bb76873995df"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asit_pani@epam.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250828T222216Z

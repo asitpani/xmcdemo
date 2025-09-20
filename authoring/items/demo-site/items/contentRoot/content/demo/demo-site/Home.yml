@@ -5,13 +5,23 @@ Template: "699991f9-465a-4a8b-bfa1-8cea756369b9"
 Path: "/sitecore/content/demo/demo-site/Home"
 BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
+- ID: "0d83e59a-c3f1-41be-81b2-762d35e0799f"
+  Hint: NavigationClass
+  Value: "{9663E7CB-EC3D-4751-9123-C527DB13F05F}"
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {699991F9-465A-4A8B-BFA1-8CEA756369B9}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+    {B6E3057E-3C0F-4215-AD32-8140C7A440DB}
+    {04112B6A-EE25-4FFD-A715-5C0A7938E887}
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{12C2F0BA-9D68-4785-83A4-02155D418206}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "05b38a8c-9896-417d-9a0a-50522e203c99"
+  Value: "18498f06-7f21-425e-b32c-dce9923e635a"
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{F558BEC9-C602-4D7A-B9A1-D0411C946EA4}"
@@ -31,15 +41,31 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{F6A01431-95C1-4D4F-BB4D-0B1FBDD34FAE}"
-              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
-              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B6E154E52-E107-4B34-AC49-7EC119A78C13%7D&amp;Styles=%7C%7B31086084-93CA-46EB-98A0-F990E92B151C%7D%7C%7B132ADF82-6B85-4A31-991F-CCB19A71C63F%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              uid="{2C46DD65-B269-4520-A8C9-0520F9F767C3}"
+              p:before="*"
+              s:ds="{66FC8585-9936-4C66-A88C-EE7894A1B987}"
+              s:id="{4A430835-70A0-4117-85E5-B1CDF3C00B04}"
+              s:par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{32665668-4980-4771-8699-C08D3EE3218E}"
+              p:after="r[@uid='{2C46DD65-B269-4520-A8C9-0520F9F767C3}']"
+              s:ds="local:/Data/Text 2"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B2049F7DD-982A-46CD-A16D-7AA4E8258AC9%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{AC5823A5-BAB3-44CF-906A-84BE84DCCD27}"
+              p:after="*[1=2]"
+              s:ds="{7159E2B6-6FF8-4948-ADF0-FCF490141D95}"
+              s:id="{29FD9EBA-9D33-4E57-8267-4713F5FF7C28}"
+              s:par="GridParameters=%7C%7B859293FB-16EB-4427-BBB5-A6B188C45FA7%7D&amp;FieldNames&amp;Styles=%7C%7BB21413CE-35D2-462A-BD80-9074DFA2177B%7D%7C%7B1647E186-156E-49E4-8FFA-78437E3D80B2%7D%7C%7BE6F70F59-3ED1-45DD-A9F2-78790BEB695A%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
               s:ph="headless-main" />
           </d>
         </r>
     - ID: "0730d834-77d3-4134-ae82-078ee34abd07"
       Hint: Title
-      Value: "demo-site"
+      Value: Home
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20250805T205919Z
@@ -48,7 +74,7 @@ Languages:
       Value: 
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: "demo-site"
+      Value: Home
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -59,11 +85,11 @@ Languages:
         sitecore\asit_pani@epam.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "dfa5fc07-da45-48aa-800a-d3b3f45c786a"
+      Value: "506a44dc-68b7-4010-82e2-996e71134d98"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\asit_pani@epam.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250818T162616Z
+      Value: 20250824T101505Z

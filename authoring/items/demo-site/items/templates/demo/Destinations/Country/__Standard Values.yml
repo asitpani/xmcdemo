@@ -1,0 +1,54 @@
+﻿---
+ID: "2ab23820-2ada-411c-b151-19147d88c0c1"
+Parent: "04a4f95c-7645-4456-bd46-4cd523f984f5"
+Template: "04a4f95c-7645-4456-bd46-4cd523f984f5"
+Path: /sitecore/templates/Project/demo/Destinations/Country/__Standard Values
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/graph_star.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{C40186DB-C19C-4D13-8AED-7F4B9B4AF412}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "8f8c8bb6-8bce-4747-ad5d-cb1582035420"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{5A710E00-49F2-425E-B165-882C4E17604D}"
+              p:before="*"
+              s:ds="query:$site/*[@@name='Data']/*[@@templatename='Hero Banner Folder']/Hero Banner"
+              s:id="{4A430835-70A0-4117-85E5-B1CDF3C00B04}"
+              s:par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId"
+              s:ph="headless-main" />
+            <r
+              uid="{799476B8-1B8C-41AA-8218-4204E73FF831}"
+              p:after="*[1=2]"
+              s:id="{F56E0330-33D4-4C20-B377-58753C597940}"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250828T174734Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "20d3d41e-65a3-4774-b7bd-846757c0f6c1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asit_pani@epam.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250828T220410Z

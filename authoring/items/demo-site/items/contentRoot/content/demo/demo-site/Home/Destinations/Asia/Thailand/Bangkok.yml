@@ -1,0 +1,41 @@
+﻿---
+ID: "49d6722b-8048-47e8-9995-7360553aa077"
+Parent: "8638c486-4ba5-44e0-83c5-559937635501"
+Template: "c40186db-c19c-4d13-8aed-7f4b9b4af412"
+Path: "/sitecore/content/demo/demo-site/Home/Destinations/Asia/Thailand/Bangkok"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{811D835C-D515-465C-B128-386C768867C8}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0730d834-77d3-4134-ae82-078ee34abd07"
+      Hint: Title
+      Value: Bangkok
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250828T213737Z
+    - ID: "332c1474-3aa0-4c15-a348-66939032d9c9"
+      Hint: Image
+      Value: |
+        <image mediaid="{B1C831D4-E794-4960-92D9-C32B53AADE3C}" />
+    - ID: "3b291b6b-2398-47b7-8a28-68d7e71bc08a"
+      Hint: Content
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ut scelerisque enim. In lacinia faucibus risus, eu gravida mauris posuere non. Sed sollicitudin diam et elit tempor tristique. Ut at orci ac diam scelerisque posuere id sit amet nisi. Donec hendrerit risus pellentesque mi laoreet, et faucibus massa imperdiet. Aliquam non lacus nec erat venenatis lacinia. Vivamus ac convallis nisl, id varius felis. Duis at vehicula orci. Nam aliquam nec risus ac hendrerit.
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Bangkok
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bd81f0ec-4baf-4e3d-bfa4-e1974d4fc2a7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asit_pani@epam.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250828T225523Z

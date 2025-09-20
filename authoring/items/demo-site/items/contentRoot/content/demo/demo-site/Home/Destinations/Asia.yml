@@ -1,0 +1,41 @@
+﻿---
+ID: "e852710d-4eb7-4cb3-ba83-84848ff056f3"
+Parent: "36ddd475-53b7-4c2d-b3f9-3fc86bc44e65"
+Template: "d55a32c0-f2df-4050-a31b-650c38b69ded"
+Path: "/sitecore/content/demo/demo-site/Home/Destinations/Asia"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{ECB108D1-5253-42FE-94F7-95C45C247493}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0730d834-77d3-4134-ae82-078ee34abd07"
+      Hint: Title
+      Value: Asia
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250828T175913Z
+    - ID: "332c1474-3aa0-4c15-a348-66939032d9c9"
+      Hint: Image
+      Value: |
+        <image mediaid="{448D0D21-3395-4DFD-90A7-A725E2C3CCED}" />
+    - ID: "3b291b6b-2398-47b7-8a28-68d7e71bc08a"
+      Hint: Content
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ut scelerisque enim. In lacinia faucibus risus, eu gravida mauris posuere non. Sed sollicitudin diam et elit tempor tristique. Ut at orci ac diam scelerisque posuere id sit amet nisi. Donec hendrerit risus pellentesque mi laoreet, et faucibus massa imperdiet. Aliquam non lacus nec erat venenatis lacinia. Vivamus ac convallis nisl, id varius felis. Duis at vehicula orci. Nam aliquam nec risus ac hendrerit.
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Asia
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cd1aefa5-e97a-4546-95cf-706157318f94"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asit_pani@epam.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250828T215109Z

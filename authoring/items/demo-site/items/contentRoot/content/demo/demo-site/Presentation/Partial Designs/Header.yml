@@ -33,7 +33,7 @@ Languages:
               uid="{28D22A98-1A55-4498-8AE8-86519E6A7CA9}"
               p:before="*"
               s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
-              s:par="ColumnWidth1=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D%7C%7B31A49E90-E4B4-4F04-A3C7-E15B6835990F%7D%7C%7B044BFD36-3F90-4CB9-B36C-44DC64F6C467%7D&amp;ColumnWidth2=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D%7C%7B6CA67ADF-05D9-4C51-BAA2-E0D45959FE47%7D%7C%7B9B4A68D5-57DC-4137-B953-621B38EECC68%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2=%7C%7BB21413CE-35D2-462A-BD80-9074DFA2177B%7D&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:par="ColumnWidth1=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D%7C%7B044BFD36-3F90-4CB9-B36C-44DC64F6C467%7D%7C%7B31A49E90-E4B4-4F04-A3C7-E15B6835990F%7D&amp;ColumnWidth2=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D%7C%7B6CA67ADF-05D9-4C51-BAA2-E0D45959FE47%7D%7C%7B9B4A68D5-57DC-4137-B953-621B38EECC68%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2=%7C%7BB21413CE-35D2-462A-BD80-9074DFA2177B%7D&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
               s:ph="headless-header" />
             <r
               uid="{9CFFF3AD-28FA-4DA3-9DEE-3F1983646069}"
@@ -46,7 +46,7 @@ Languages:
               uid="{72C928A5-A7FB-47C2-9A63-A1E1CA30FF31}"
               p:after="*[1=2]"
               s:id="{1DEB067F-0BB1-405E-94F5-2ABB537A6160}"
-              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7BC76D72D1-102E-40D7-A78D-2DDA05622699%7D%7C%7B6CA67ADF-05D9-4C51-BAA2-E0D45959FE47%7D%7C%7B859293FB-16EB-4427-BBB5-A6B188C45FA7%7D%7C%7BAA8858DB-CA9D-4C36-B1F5-27511ED25DF3%7D&amp;FieldNames=%7B581ABCE5-FE7C-4AF1-B23F-3901C4052815%7D&amp;Styles=%7C%7BC375DBCB-D553-4866-9D55-B1CBFD796651%7D%7C%7B94209A60-603A-40E0-8796-7DE404D98FC2%7D&amp;NavigationRoot&amp;LevelFrom=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;LevelTo=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;Filter=%7BD063E9D1-C7B5-4B1E-B31E-69886C9C59F5%7D&amp;Flattened=1&amp;AddRoot&amp;SerializerFieldNames&amp;RenderingIdentifier&amp;CSSStyles"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7BC76D72D1-102E-40D7-A78D-2DDA05622699%7D%7C%7B6CA67ADF-05D9-4C51-BAA2-E0D45959FE47%7D%7C%7BAA8858DB-CA9D-4C36-B1F5-27511ED25DF3%7D&amp;FieldNames=%7B581ABCE5-FE7C-4AF1-B23F-3901C4052815%7D&amp;Styles=%7C%7B94209A60-603A-40E0-8796-7DE404D98FC2%7D&amp;NavigationRoot&amp;LevelFrom&amp;LevelTo&amp;Filter=%7BD063E9D1-C7B5-4B1E-B31E-69886C9C59F5%7D&amp;Flattened&amp;AddRoot&amp;SerializerFieldNames&amp;RenderingIdentifier&amp;CSSStyles"
               s:ph="/headless-header/column-2-1" />
           </d>
         </r>
@@ -63,11 +63,11 @@ Languages:
         sitecore\asit_pani@epam.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b50bbd46-9d2d-46e0-972a-927b1e4d3ccf"
+      Value: "8af21861-d87e-44df-8f34-2e239f36131f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\asit_pani@epam.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250818T190959Z
+      Value: 20250818T213608Z

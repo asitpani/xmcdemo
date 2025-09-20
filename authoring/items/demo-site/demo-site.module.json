@@ -2,11 +2,6 @@
     "namespace": "demo-site",
     "items": {
         "includes": [
-            {
-                "name": "DefaultRenderingHost",
-                "path": "/sitecore/system/Settings/Services/Rendering Hosts/Default",
-                "scope": "singleItem"
-            },
 			{
                 "name": "layouts",
                 "path": "/sitecore/layout/Layouts/Project/demo"

@@ -22,7 +22,7 @@ SharedFields:
   Value: Demo Site
 - ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
   Hint: HostName
-  Value: *
+  Value: "xmcdemo-iota.vercel.app"
 - ID: "9eaf6dc9-b811-4cda-9edd-9697faba628a"
   Hint: POS
   Value: "en=demo-site_2"
@@ -34,7 +34,10 @@ SharedFields:
   Value: *
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "286e9ce0-13bd-4530-ad4e-2c032f478832"
+  Value: "4e990d17-4546-4f1e-990c-ebbc0d0e73da"
+- ID: "e5b5ccb5-17a1-429d-bd3e-6122b3216e52"
+  Hint: TargetHostName
+  Value: "xmcdemo-iota.vercel.app"
 - ID: "f57099a3-526a-49f2-aebd-635453e48875"
   Hint: RenderingHost
   Value: Default
@@ -59,11 +62,11 @@ Languages:
         sitecore\asit_pani@epam.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9ba79352-194d-4a33-a600-39fda5f09c14"
+      Value: "fcd4e7a3-a8b2-4a1b-bafa-1a64a76aed31"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\asit_pani@epam.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250805T205951Z
+      Value: 20250919T064304Z

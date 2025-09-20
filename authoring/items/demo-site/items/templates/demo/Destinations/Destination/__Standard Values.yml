@@ -1,0 +1,57 @@
+﻿---
+ID: "1a1e3028-7fc4-4f63-aa5d-983ce26dccc5"
+Parent: "c40186db-c19c-4d13-8aed-7f4b9b4af412"
+Template: "c40186db-c19c-4d13-8aed-7f4b9b4af412"
+Path: /sitecore/templates/Project/demo/Destinations/Destination/__Standard Values
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "b213b968-59e3-416d-bba7-2a905d546ccc"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}" />
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{5A710E00-49F2-425E-B165-882C4E17604D}"
+              p:before="*"
+              s:ds="query:$site/*[@@name='Data']/*[@@templatename='Hero Banner Folder']/Hero Banner"
+              s:id="{4A430835-70A0-4117-85E5-B1CDF3C00B04}"
+              s:par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{799476B8-1B8C-41AA-8218-4204E73FF831}"
+              p:after="*[1=2]"
+              s:id="{63DA8DE5-B9E6-4CE3-AD32-1CDB9BAE0233}"
+              s:par="CSSStyles"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250828T174849Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aeb3158f-b4b2-4507-917d-5ebe4f51bb84"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asit_pani@epam.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250828T221242Z

@@ -1,0 +1,40 @@
+﻿---
+ID: "c117b795-0b7b-4038-a693-c050b35df85a"
+Parent: "019b406f-0829-4731-8438-efad8035dd9e"
+Template: "dc43831e-1e8f-4b9d-a00f-1350f0c1f22c"
+Path: "/sitecore/content/demo/demo-site/Home/Services/Hotel Reservation"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{B83F8008-C8E3-4E71-A6BB-9FA9BAE096EB}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0730d834-77d3-4134-ae82-078ee34abd07"
+      Hint: Title
+      Value: Hotel Reservation
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250818T185928Z
+    - ID: "463667f2-086b-49bf-9441-36f6af4f4ce5"
+      Hint: Description
+      Value: Dolor sit amet consectetur adipisicing elit. Non alias eum, suscipit expedita corrupti officiis debitis possimus nam laudantium beatae quidem dolore consequuntur voluptate rem reiciendis, omnis sequi harum earum.
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Product Management
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "302a2b58-6603-4974-a033-ee0f8eb4beb0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asit_pani@epam.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250818T203116Z
+    - ID: "efb51196-d741-45b9-b900-45d4eeb66d04"
+      Hint: Heading
+      Value: Hotel Reservation

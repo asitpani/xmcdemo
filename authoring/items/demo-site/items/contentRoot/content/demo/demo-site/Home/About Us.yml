@@ -31,14 +31,14 @@ Languages:
         Sed eget libero placerat, porttitor velit non, ultrices diam. Maecenas vestibulum augue ante, eget tempus nibh hendrerit sed. Mauris sit amet dolor vel nunc eleifend mattis. Donec fermentum nulla efficitur mauris sodales sodales. Phasellus ac leo nisl. Suspendisse nunc erat, condimentum id ligula non, tristique finibus turpis. Integer fringilla lobortis imperdiet. Donec vitae ligula convallis odio rutrum rhoncus vitae ac nisl. Praesent egestas tellus nibh, bibendum maximus mauris aliquet et. Morbi pulvinar urna dui, vel laoreet nisl semper et. Proin ipsum odio, faucibus a consectetur at, tincidunt vel mi. Curabitur tempus velit nec aliquam dapibus.</p>
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: About Us
+      Value: About Us1
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f97ea762-68df-4e11-8f59-7fc41714eaef"
+      Value: "36cefadf-dd6b-4722-8be4-208b63757fbf"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\asit_pani@epam.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250818T082243Z
+      Value: 20250920T160819Z
