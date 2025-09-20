@@ -1,3 +1,4 @@
+import { ComponentParams, Field, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import { useEffect, useRef } from 'react';
 
 declare global {
@@ -8,10 +9,20 @@ declare global {
   }
 }
 
+interface Fields {
+  // Add fields if you want to expose any Sitecore fields (optional)
+  Title?: Field<string>;
+}
+
+type CoveoSearchWidgetProps = {
+  params: ComponentParams;
+  fields: Fields;
+};
+
 const COVEO_API_KEY = process.env.NEXT_PUBLIC_COVEO_API_KEY;
 const CONTAINER_ID = 'coveo-search-page-container';
 
-export const Default = () => {
+export const Default = (props: CoveoSearchWidgetProps) => {
   if (!COVEO_API_KEY) {
     throw new Error('COVEO API KEY is not defined');
   }
@@ -19,7 +30,9 @@ export const Default = () => {
 
   useEffect(() => {
     if (typeof window === 'undefined' || initializedRef.current) return;
-
+    <h1>
+      <Text field={props?.fields?.Title} />
+    </h1>;
     if (!document.getElementById('coveo-loader-script')) {
       const script = document.createElement('script');
       script.id = 'coveo-loader-script';
