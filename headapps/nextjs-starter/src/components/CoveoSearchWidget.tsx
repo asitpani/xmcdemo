@@ -1,5 +1,5 @@
-// CoveoSearchWidget.tsx
-import { useEffect, useRef } from 'react';
+import { ComponentParams, Field } from '@sitecore-jss/sitecore-jss-nextjs';
+import { JSX, useEffect, useRef } from 'react';
 
 declare global {
   interface Window {
@@ -9,16 +9,28 @@ declare global {
   }
 }
 
-const COVEO_API_KEY = 'xxd1ce7885-157d-4d78-ad51-41d92f830795'; // <-- Replace with your actual key
+interface Fields {
+  // Add fields if you want to expose any Sitecore fields (optional)
+  Title?: Field<string>;
+}
+
+type CoveoSearchWidgetProps = {
+  params: ComponentParams;
+  fields: Fields;
+};
+
+const COVEO_API_KEY = process.env.NEXT_PUBLIC_COVEO_API_KEY;
 const CONTAINER_ID = 'coveo-search-page-container';
 
-const CoveoSearchWidget = () => {
+export const Default = (props: CoveoSearchWidgetProps) => {
+  if (!COVEO_API_KEY) {
+    throw new Error('COVEO API KEY is not defined');
+  }
   const initializedRef = useRef(false);
 
   useEffect(() => {
     if (typeof window === 'undefined' || initializedRef.current) return;
 
-    // Check if script already exists
     if (!document.getElementById('coveo-loader-script')) {
       const script = document.createElement('script');
       script.id = 'coveo-loader-script';
@@ -35,7 +47,6 @@ const CoveoSearchWidget = () => {
       };
       document.body.appendChild(script);
     } else {
-      // Script already loaded, just initialize
       if (window.CoveoSearchPage) {
         window.CoveoSearchPage.initialize(COVEO_API_KEY, {
           target: `#${CONTAINER_ID}`,
@@ -47,5 +58,3 @@ const CoveoSearchWidget = () => {
 
   return <div id={CONTAINER_ID}></div>;
 };
-
-export default CoveoSearchWidget;
