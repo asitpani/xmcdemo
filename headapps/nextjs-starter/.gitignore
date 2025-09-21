@@ -31,3 +31,7 @@ scjssconfig.json
 
 # vercel
 .vercel
+
+
+# TypeScript build cache
+*.tsbuildinfo

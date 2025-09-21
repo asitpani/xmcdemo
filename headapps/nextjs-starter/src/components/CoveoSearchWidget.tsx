@@ -1,5 +1,5 @@
 import { ComponentParams, Field, Text } from '@sitecore-jss/sitecore-jss-nextjs';
-import { useEffect, useRef } from 'react';
+import { JSX, useEffect, useRef } from 'react';
 
 declare global {
   interface Window {
@@ -22,7 +22,7 @@ type CoveoSearchWidgetProps = {
 const COVEO_API_KEY = process.env.NEXT_PUBLIC_COVEO_API_KEY;
 const CONTAINER_ID = 'coveo-search-page-container';
 
-export const Default = (props: CoveoSearchWidgetProps) => {
+export const Default = (props: CoveoSearchWidgetProps): JSX.Element => {
   if (!COVEO_API_KEY) {
     throw new Error('COVEO API KEY is not defined');
   }
